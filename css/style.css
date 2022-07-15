@@ -506,7 +506,7 @@ h1.heading img {
 .quote_form_cover {
     margin-top: 2em;
     background-color: white;
-    padding: 50px;
+    padding: 40px !important;
 }
 
 .quote_form_cover .gradient_heading {
@@ -527,7 +527,9 @@ h1.heading img {
 .quote_form_cover form textarea {
     width: 100%;
     padding: 1.4em;
-    font-size: 1.1em;
+    background-color: #f7fcff;
+    border: 1px solid #ecf5f7;
+    font-size: 1.3em;
 }
 
 .quote_form_cover {
@@ -616,6 +618,9 @@ footer.footer {
         background-position: center;
         background-size: cover;
         padding: 70px 0;
+    }
+    .quote_form_cover {
+        padding: 20px !important;
     }
 
     .hero_slider {
