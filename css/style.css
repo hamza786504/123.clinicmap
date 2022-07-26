@@ -27,7 +27,7 @@ a {
     color: inherit;
 }
 
-.notification_bar {
+/* .notification_bar {
     position: relative;
     background-color: var(--black);
 }
@@ -101,7 +101,7 @@ a {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-}
+} */
 
 .hero_slider {
     background-image: url("../images/slider_image.png");
@@ -553,7 +553,7 @@ h1.heading img {
 
 
 
-footer.footer {
+/* footer.footer {
     background-color: #1f1f1f;
     color: white;
 }
@@ -585,7 +585,7 @@ footer.footer {
 .footer h4,
 .text_footer h6 {
     color: #99a6b0;
-}
+} */
 
 
 
